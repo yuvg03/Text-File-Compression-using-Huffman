@@ -1,1 +1,1 @@
-# Text-File-Compression-using-Huffman
+# Text-File-Zipper
