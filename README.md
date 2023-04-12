@@ -68,13 +68,14 @@ Following are the steps followed to decompress the Huffman encoded file.
 
 ### How to run this project?
 To run this project you need to create an executable file. You can follow the steps given below:
-1) **For compressing:** Successful compression
+1) **Compressing (input_File.txt) to Compresses_File.huf**  
+Successful compression
 ![image](https://user-images.githubusercontent.com/129162262/231456546-a649faa8-33f4-44e8-913a-473a7cfa2964.png)  
 File not detected
 ![image](https://user-images.githubusercontent.com/129162262/231457717-92f2cf5e-ebf1-413e-8aa4-d36949dbff58.png)
 
 
-2) **For Decompressing:**
+2) **Decompressing (Compresses_File.huf) to output_File.txt:**
 ![image](https://user-images.githubusercontent.com/129162262/231458771-edba9cd2-9239-42f5-8dfd-c15aa8d8b26a.png)  
 Compressed File not found
 ![image](https://user-images.githubusercontent.com/129162262/231459148-3ddab3d1-0547-4dd4-8d68-f5ba05395293.png)
